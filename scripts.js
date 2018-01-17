@@ -1,4 +1,5 @@
 // FILL IN THE FUNCTIONS BELOW
+// testing
 
 function removeNonAlphaChars(sentence) {
   var array = sentence.split('');
