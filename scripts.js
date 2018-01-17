@@ -38,7 +38,7 @@ var sprintFunctions = {
 
   loudSnakeCase: function(sentence) {
 
-   /*var result = [];
+   var result = [];
    var charOnly = removeNonAlphaChars(sentence);
    var words = charOnly.toLowerCase().split(' ');
 
@@ -49,7 +49,7 @@ var sprintFunctions = {
      }
    });
 
-   return result.join('_')*/
+   return result.join('_')
 
   },
 
